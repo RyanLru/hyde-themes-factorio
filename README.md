@@ -10,4 +10,5 @@ https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/0c7f12a8-11f2-4a
 
 > [!NOTE]
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
-
+>
+>

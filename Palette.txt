@@ -1,9 +1,9 @@
 https://colorhunt.co/palette/feffd2ffeea9ffbf78ff7d29
 
-#FEFFD2 : rgb(254, 255, 210)
-#FFEEA9 : rgb(255, 238, 169)
-#FFBF78 : rgb(255, 191, 120) 
-#FF7D29 : rgb(255, 125, 41)
+#FABC3F : rgb(250, 188, 63)
+#E85C0D : rgb(232, 92, 13)
+#C7253E : rgb(199, 37, 62)
+#821131 : rgb(130, 17, 49)
 
 Commande 
 ./themepatcher.sh Factorio /home/ryanl/Bureau/Projet/hyde-themes-factorio/

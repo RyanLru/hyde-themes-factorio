@@ -1,17 +1,17 @@
 $HOME/.config/waybar/theme.css|${scrDir}/wbarconfgen.sh
 @define-color bar-bg rgba(0, 0, 0, 0);
 
-@define-color main-bg #FFEEA9; /* Couleur principale: Jaune pâle */
-@define-color main-fg #FF7D29; /* Couleur de texte principale: Orange foncé */
+@define-color main-bg #FEFFD2; /* Couleur principale: Jaune pâle */
+@define-color main-fg #E85C0D; /* Couleur de texte principale: Orange foncé */
 
-@define-color wb-act-bg #FF7D29; /* Arrière-plan actif: Orange foncé */
-@define-color wb-act-fg #FFBF78; /* Texte actif: Orange clair */
+@define-color wb-act-bg #E85C0D; /* Arrière-plan actif: Orange foncé */
+@define-color wb-act-fg #FABC3F; /* Texte actif: Orange clair */
 
 @define-color wb-hvr-bg #FFEEA9; /* Arrière-plan survolé: Jaune clair */
-@define-color wb-hvr-fg #FFBF78; /* Texte survolé: Orange clair */
+@define-color wb-hvr-fg #FABC3F; /* Texte survolé: Orange clair */
 
 /* Nuances supplémentaires */
-@define-color wb-bg-light #fdff8f; /* Jaune pâle */
+@define-color wb-bg-light #FFEEA9; /* Jaune clair */
 @define-color wb-bg-lighter #FFFFFF; /* Blanc pour contraste */
 @define-color wb-fg-light #FFEEA9; /* Jaune clair */
-@define-color wb-fg-dark #24283b; /* Gris foncé pour contraste */
+@define-color wb-fg-dark #821131; /* Gris foncé pour contraste */

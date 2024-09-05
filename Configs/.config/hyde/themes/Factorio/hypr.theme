@@ -5,19 +5,19 @@ exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
 general {
     gaps_in = 3
-    gaps_out = 8 
+    gaps_out = 8
     border_size = 2
-    col.active_border = rgba(255, 125, 41, 1.0) rgba(254, 255, 210, 1.0) 45deg
-    col.inactive_border = rgba(255, 191, 120, 1.0) rgba(255, 238, 169, 1.0) 45deg
+    col.active_border = rgba(232, 92, 13, 1.0) rgba(250, 188, 63, 1.0) 45deg
+    col.inactive_border = rgba(199, 37, 62, 1.0) rgba(250, 188, 63, 1.0) 45deg
     layout = dwindle
     resize_on_border = true
 }
 
 group {
-    col.border_active = rgba(255, 125, 41, 1.0) rgba(254, 255, 210, 1.0) 45deg
-    col.border_inactive = rgba(255, 191, 120, 1.0) rgba(255, 238, 169, 1.0) 45deg
-    col.border_locked_active = rgba(255, 125, 41, 1.0) rgba(254, 255, 210, 1.0) 45deg
-    col.border_locked_inactive = rgba(255, 191, 120, 1.0) rgba(255, 238, 169, 1.0) 45deg
+    col.border_active = rgba(232, 92, 13, 1.0) rgba(250, 188, 63, 1.0) 45deg
+    col.border_inactive = rgba(199, 37, 62, 1.0) rgba(250, 188, 63, 1.0) 45deg
+    col.border_locked_active = rgba(232, 92, 13, 1.0) rgba(250, 188, 63, 1.0) 45deg
+    col.border_locked_inactive = rgba(199, 37, 62, 1.0) rgba(250, 188, 63, 1.0) 45deg
 }
 
 decoration {

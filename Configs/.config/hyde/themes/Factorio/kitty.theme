@@ -5,24 +5,24 @@ $HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
 # Based on Tokyo Night color theme for Visual Studio Code
 # https://github.com/enkia/tokyo-night-vscode-theme
 
-foreground #a9b1d6
-background #24283b
+foreground #FABC3F
+background #821131
 
 # Black
 color0 #414868
 color8 #414868
 
 # Red
-color1 #f7768e
-color9 #f7768e
+color1 #E85C0D
+color9 #E85C0D
 
 # Green
 color2 #73daca
 color10 #73daca
 
 # Yellow
-color3 #e0af68
-color11 #e0af68
+color3 #FABC3F
+color11 #FABC3F
 
 # Blue
 color4 #7aa2f7
@@ -52,9 +52,9 @@ selection_background #28344a
 url_color #9ece6a
 
 # Window borders
-#active_border_color rgba(255, 125, 41, 1.0) rgba(254, 255, 210, 1.0) 45deg
-#inactive_border_color rgba(255, 191, 120, 1.0) rgba(255, 238, 169, 1.0) 45deg
-bell_border_color #e0af68
+#active_border_color rgba(232, 92, 13, 1.0) rgba(250, 188, 63, 1.0) 45deg
+#inactive_border_color rgba(199, 37, 62, 1.0) rgba(250, 188, 63, 1.0) 45deg
+bell_border_color #FABC3F
 
 # Tab bar
 tab_bar_style fade
